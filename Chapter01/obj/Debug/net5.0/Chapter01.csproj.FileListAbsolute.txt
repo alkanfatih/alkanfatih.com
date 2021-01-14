@@ -1,0 +1,15 @@
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/Chapter01.deps.json
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/Chapter01.runtimeconfig.json
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/Chapter01.runtimeconfig.dev.json
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/Chapter01.dll
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/ref/Chapter01.dll
+/Users/alkanfatih/Desktop/Code/Chapter01/bin/Debug/net5.0/Chapter01.pdb
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.csprojAssemblyReference.cache
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.AssemblyInfoInputs.cache
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.AssemblyInfo.cs
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.csproj.CoreCompileInputs.cache
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.dll
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/ref/Chapter01.dll
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.pdb
+/Users/alkanfatih/Desktop/Code/Chapter01/obj/Debug/net5.0/Chapter01.genruntimeconfig.cache
